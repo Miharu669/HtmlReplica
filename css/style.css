@@ -1,12 +1,17 @@
+html {
+    background-color: #070707;
+}
 header {
-    background-image: url('/assets/images/ASHH5bDmsp6wnK6mEfZdcU-650-80.jpg');
+    background-image: url('/assets/images/ia.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     height: 300px;
+    width: 100%;
     color: white;
     text-align: center;
-    padding-top: 100px;
+    padding-top: 150px;
+    margin-right: 30px;
 }
 h1 {
  font-size: 60px;
